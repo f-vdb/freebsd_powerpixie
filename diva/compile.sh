@@ -1,3 +1,2 @@
 
-go get github.com/f-vdb/freebsd-powerpixie/ping
-
+go get github.com/f-vdb/freebsd_powerpixie/ping
